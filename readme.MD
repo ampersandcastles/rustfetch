@@ -1,0 +1,3 @@
+# rustfetch
+
+we'll see how much I actually work on this...
